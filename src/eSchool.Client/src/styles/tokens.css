@@ -1,0 +1,108 @@
+:root,
+[data-theme='light'] {
+  color-scheme: light;
+  --mm-bg-app: #f8fafd;
+  --mm-bg-surface: #ffffff;
+  --mm-bg-surface-subtle: #f2f6fa;
+  --mm-bg-hover: #f6f9fc;
+  --mm-text-primary: #111c2d;
+  --mm-text-muted: rgba(17, 28, 45, 0.6);
+  --mm-text-subtle: #8b98ac;
+  --mm-border-color: #e4ebf0;
+
+  --mm-primary: #00a1ff;
+  --mm-primary-rgb: 0, 161, 255;
+  --mm-primary-light: rgba(0, 161, 255, 0.15);
+
+  --mm-secondary: #8965e5;
+  --mm-secondary-rgb: 137, 101, 229;
+  --mm-secondary-light: rgba(137, 101, 229, 0.15);
+
+  --mm-success: #00ceb6;
+  --mm-success-light: rgba(0, 206, 182, 0.15);
+
+  --mm-warning: #ffae1f;
+  --mm-warning-light: rgba(255, 174, 31, 0.15);
+
+  --mm-error: #ff6692;
+  --mm-error-card: rgba(247, 68, 86, 0.15);
+  --mm-error-light: rgba(247, 68, 86, 0.15);
+
+  --mm-info: #539bff;
+  --mm-info-light: rgba(83, 155, 255, 0.15);
+
+  --mm-navy-dark: #1f2a3d;
+  --mm-auth-dark: #111c2d;
+
+  --mm-radius-card: 24px;
+  --mm-radius-sm: 8px;
+  --mm-radius-md: 12px;
+  --mm-radius-pill: 9999px;
+
+  --mm-shadow-card: 0 1px 4px rgba(133, 146, 173, 0.2);
+  --mm-shadow-dropdown: 0 10px 30px rgba(17, 28, 45, 0.12);
+  --mm-shadow-drawer: 0 15px 30px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+  --mm-bg-app: #1f2a3d;
+  --mm-bg-surface: #1a2537;
+  --mm-bg-surface-subtle: rgba(255, 255, 255, 0.05);
+  --mm-bg-hover: #223047;
+  --mm-text-primary: rgba(255, 255, 255, 0.92);
+  --mm-text-muted: rgba(255, 255, 255, 0.67);
+  --mm-text-subtle: rgba(255, 255, 255, 0.48);
+  --mm-border-color: #2e3f50;
+  --mm-shadow-card: 0 0 2px rgba(0, 0, 0, 0.3);
+  --mm-shadow-dropdown: 0 12px 28px rgba(0, 0, 0, 0.45);
+}
+
+/* Color Presets matching MaterialM Customizer */
+[data-color-preset='blue'] {
+  --mm-primary: #00a1ff;
+  --mm-primary-rgb: 0, 161, 255;
+  --mm-primary-light: rgba(0, 161, 255, 0.15);
+  --mm-secondary: #8965e5;
+  --mm-secondary-light: rgba(137, 101, 229, 0.15);
+}
+
+[data-color-preset='aqua'] {
+  --mm-primary: #0074ba;
+  --mm-primary-rgb: 0, 116, 186;
+  --mm-primary-light: rgba(0, 116, 186, 0.15);
+  --mm-secondary: #47d7bc;
+  --mm-secondary-light: rgba(71, 215, 188, 0.15);
+}
+
+[data-color-preset='purple'] {
+  --mm-primary: #6e35b7;
+  --mm-primary-rgb: 110, 53, 183;
+  --mm-primary-light: rgba(110, 53, 183, 0.15);
+  --mm-secondary: #8bc8ce;
+  --mm-secondary-light: rgba(139, 200, 206, 0.15);
+}
+
+[data-color-preset='green'] {
+  --mm-primary: #06769a;
+  --mm-primary-rgb: 6, 118, 154;
+  --mm-primary-light: rgba(6, 118, 154, 0.15);
+  --mm-secondary: #c3d046;
+  --mm-secondary-light: rgba(195, 208, 70, 0.15);
+}
+
+[data-color-preset='cyan'] {
+  --mm-primary: #00b9c0;
+  --mm-primary-rgb: 0, 185, 192;
+  --mm-primary-light: rgba(0, 185, 192, 0.15);
+  --mm-secondary: #f48b6c;
+  --mm-secondary-light: rgba(244, 139, 108, 0.15);
+}
+
+[data-color-preset='orange'] {
+  --mm-primary: #fa896b;
+  --mm-primary-rgb: 250, 137, 107;
+  --mm-primary-light: rgba(250, 137, 107, 0.15);
+  --mm-secondary: #007fb4;
+  --mm-secondary-light: rgba(0, 127, 180, 0.15);
+}

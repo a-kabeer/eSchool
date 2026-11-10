@@ -1,5 +1,9 @@
 import * as signalR from '@microsoft/signalr';
 
+const HUB_BASE = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? 'http://localhost:5050/hubs'
+  : '/hubs';
+
 class SignalRManager {
   private counterConnection: signalR.HubConnection | null = null;
   private attendanceConnection: signalR.HubConnection | null = null;
@@ -7,7 +11,7 @@ class SignalRManager {
   public async connectCounter(schoolId: string, onPaymentReceived: (data: unknown) => void) {
     try {
       this.counterConnection = new signalR.HubConnectionBuilder()
-        .withUrl('http://localhost:5000/hubs/counter')
+        .withUrl(`${HUB_BASE}/counter`)
         .withAutomaticReconnect()
         .build();
 
@@ -24,7 +28,7 @@ class SignalRManager {
   public async connectAttendance(schoolId: string, onAttendanceUpdated: (data: unknown) => void) {
     try {
       this.attendanceConnection = new signalR.HubConnectionBuilder()
-        .withUrl('http://localhost:5000/hubs/attendance')
+        .withUrl(`${HUB_BASE}/attendance`)
         .withAutomaticReconnect()
         .build();
 

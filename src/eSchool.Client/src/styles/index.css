@@ -1,0 +1,87 @@
+@import 'tailwindcss';
+@import './tokens.css';
+
+@theme {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-primary: var(--mm-primary);
+  --color-secondary: var(--mm-secondary);
+  --color-success: var(--mm-success);
+  --color-warning: var(--mm-warning);
+  --color-error: var(--mm-error);
+  --color-info: var(--mm-info);
+  --color-ink: var(--mm-text-primary);
+  --color-muted: var(--mm-text-muted);
+  --color-surface: var(--mm-bg-surface);
+  --color-app: var(--mm-bg-app);
+  --color-subtle: var(--mm-bg-surface-subtle);
+  --color-border: var(--mm-border-color);
+  --color-light-primary: var(--mm-primary-light);
+  --color-light-secondary: var(--mm-secondary-light);
+  --color-light-success: var(--mm-success-light);
+  --color-light-warning: var(--mm-warning-light);
+  --color-light-error: var(--mm-error-light);
+  --color-light-info: var(--mm-info-light);
+}
+
+@layer base {
+  html {
+    min-height: 100%;
+    font-family: var(--font-sans);
+    background-color: var(--mm-bg-app);
+  }
+
+  body {
+    min-height: 100%;
+    font-family: var(--font-sans);
+    background-color: var(--mm-bg-app);
+    color: var(--mm-text-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+  }
+
+  button,
+  a,
+  [role='button'] {
+    cursor: pointer;
+  }
+}
+
+.mm-card {
+  background-color: var(--mm-bg-surface);
+  border-radius: var(--mm-radius-card);
+  box-shadow: var(--mm-shadow-card);
+  color: var(--mm-text-primary);
+}
+
+.mm-card-outlined {
+  background-color: var(--mm-bg-surface);
+  border-radius: var(--mm-radius-card);
+  border: 1px solid var(--mm-border-color);
+  box-shadow: none;
+  color: var(--mm-text-primary);
+}
+
+.mm-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.mm-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.mm-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(133, 146, 173, 0.28);
+  border-radius: 999px;
+}
+.mm-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(133, 146, 173, 0.45);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

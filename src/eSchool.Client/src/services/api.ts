@@ -1,6 +1,8 @@
-import type { Campus, DashboardStats, FeeInvoice, AccountHead, Voucher, Student, AttendanceStudent } from '../types';
+import type { Campus, DashboardStats, FeeInvoice, AccountHead, Student, AttendanceStudent } from '../types';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? 'http://localhost:5050/api'
+  : '/api';
 
 // Seeded local fallback data in case backend server is spinning up
 const FALLBACK_CAMPUSES: Campus[] = [
