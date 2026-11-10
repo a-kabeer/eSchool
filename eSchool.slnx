@@ -28,4 +28,7 @@
     <Project Path="src/Shared/eSchool.Infrastructure/eSchool.Infrastructure.csproj" />
     <Project Path="src/Shared/eSchool.SharedKernel/eSchool.SharedKernel.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/eSchool.Tests/eSchool.Tests.csproj" />
+  </Folder>
 </Solution>

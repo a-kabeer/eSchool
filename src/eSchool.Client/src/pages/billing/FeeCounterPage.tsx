@@ -9,6 +9,7 @@ import {
   FileCheck,
 } from 'lucide-react';
 import { Card, Button, StatusBadge, Modal } from '@/components/ui';
+import { PrintableChallanModal } from '@/components/challan/PrintableChallanModal';
 import { api } from '@/services/api';
 import { useCampus } from '@/context/CampusContext';
 import { useToast } from '@/context/ToastContext';
@@ -34,6 +35,7 @@ export function FeeCounterPage() {
   } | null>(null);
   const [processing, setProcessing] = useState(false);
   const [receiptModalOpen, setReceiptModalOpen] = useState(false);
+  const [challanModalOpen, setChallanModalOpen] = useState(false);
 
   const handleSearch = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
@@ -204,9 +206,20 @@ export function FeeCounterPage() {
                 <p className="mt-1 font-mono text-xs text-muted">Barcode ID: {invoice.barcode}</p>
               </div>
 
-              <div className="text-right">
-                <span className="text-xs text-muted">Billing Cycle</span>
-                <p className="font-semibold text-ink">{invoice.billingMonth} (Nov 2024)</p>
+              <div className="flex items-center gap-2">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => setChallanModalOpen(true)}
+                  className="inline-flex items-center gap-1.5"
+                >
+                  <Printer className="h-3.5 w-3.5" />
+                  Print 3-Part Challan
+                </Button>
+                <div className="text-right">
+                  <span className="text-xs text-muted">Billing Cycle</span>
+                  <p className="font-semibold text-ink">{invoice.billingMonth} (Nov 2024)</p>
+                </div>
               </div>
             </div>
 
@@ -456,6 +469,16 @@ export function FeeCounterPage() {
           </div>
         </div>
       </Modal>
+
+      {/* 3-Part Official Bank Challan Modal */}
+      {invoice && (
+        <PrintableChallanModal
+          open={challanModalOpen}
+          onClose={() => setChallanModalOpen(false)}
+          invoice={invoice}
+          campus={currentCampus}
+        />
+      )}
     </div>
   );
 }

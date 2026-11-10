@@ -35,6 +35,12 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
         iconName: 'CircleDot',
       },
       {
+        id: 'examinations',
+        label: 'Examinations & Grading',
+        path: '/academic/examinations',
+        iconName: 'Table2',
+      },
+      {
         id: 'general-ledger',
         label: 'General Ledger & COA',
         path: '/finance/general-ledger',
