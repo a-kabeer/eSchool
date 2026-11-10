@@ -11,11 +11,18 @@ import { Dashboard1Page } from '@/pages/dashboards/Dashboard1Page';
 import { Dashboard2Page } from '@/pages/dashboards/Dashboard2Page';
 
 import { StudentsPage } from '@/pages/sis/StudentsPage';
+import { Student360Page } from '@/pages/sis/Student360Page';
+import { AdmissionsFunnelPage } from '@/pages/sis/AdmissionsFunnelPage';
 import { FeeCounterPage } from '@/pages/billing/FeeCounterPage';
 import { GeneralLedgerPage } from '@/pages/finance/GeneralLedgerPage';
 import { DailyAttendancePage } from '@/pages/academic/DailyAttendancePage';
 import { ExaminationsPage } from '@/pages/academic/ExaminationsPage';
 import { PayrollPage } from '@/pages/hr/PayrollPage';
+import { DataLocksPage } from '@/pages/management/DataLocksPage';
+import { LibraryPage } from '@/pages/operations/LibraryPage';
+import { InventoryPage } from '@/pages/operations/InventoryPage';
+import { ParentPortalPage } from '@/portals/parent/ParentPortalPage';
+import { TeacherPortalPage } from '@/portals/teacher/TeacherPortalPage';
 
 import { InvoicesPage } from '@/pages/apps/InvoicesPage';
 import { InvoiceDetailPage } from '@/pages/apps/InvoiceDetailPage';
@@ -47,11 +54,19 @@ export function AppRoutes() {
 
         {/* eSchool Core Modules */}
         <Route path="/sis/students" element={<StudentsPage />} />
+        <Route path="/sis/students/360" element={<Student360Page />} />
+        <Route path="/sis/students/:id/360" element={<Student360Page />} />
+        <Route path="/sis/admissions" element={<AdmissionsFunnelPage />} />
         <Route path="/billing/fee-counter" element={<FeeCounterPage />} />
         <Route path="/finance/general-ledger" element={<GeneralLedgerPage />} />
         <Route path="/academic/attendance" element={<DailyAttendancePage />} />
         <Route path="/academic/examinations" element={<ExaminationsPage />} />
         <Route path="/hr/payroll" element={<PayrollPage />} />
+        <Route path="/management/locks" element={<DataLocksPage />} />
+        <Route path="/operations/library" element={<LibraryPage />} />
+        <Route path="/operations/inventory" element={<InventoryPage />} />
+        <Route path="/portals/parent" element={<ParentPortalPage />} />
+        <Route path="/portals/teacher" element={<TeacherPortalPage />} />
 
         {/* Challans & Apps */}
         <Route path="/apps/invoices" element={<InvoicesPage />} />

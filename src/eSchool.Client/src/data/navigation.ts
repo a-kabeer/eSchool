@@ -14,10 +14,16 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
       },
       {
         id: 'sis-students',
-        label: 'Student SIS & Admissions',
+        label: 'Student Directory & 360',
         path: '/sis/students',
         iconName: 'Users',
-        chip: 'Wizard',
+      },
+      {
+        id: 'sis-admissions',
+        label: 'Admissions Funnel',
+        path: '/sis/admissions',
+        iconName: 'Sparkles',
+        chip: 'Funnel',
         chipVariant: 'outlined',
       },
       {
@@ -55,6 +61,28 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
         iconName: 'BadgeDollarSign',
       },
       {
+        id: 'data-locks',
+        label: '41 Period Data Locks',
+        path: '/management/locks',
+        iconName: 'LockKeyhole',
+        chip: 'Freeze',
+        chipVariant: 'outlined',
+      },
+      {
+        id: 'library',
+        label: 'Library & Circulation',
+        path: '/operations/library',
+        iconName: 'BookOpen',
+        chip: 'Barcode',
+        chipVariant: 'outlined',
+      },
+      {
+        id: 'inventory',
+        label: 'Serialized Asset Custody',
+        path: '/operations/inventory',
+        iconName: 'Package',
+      },
+      {
         id: 'invoices',
         label: 'Fee Challans',
         iconName: 'Receipt',
@@ -62,6 +90,27 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
           { label: 'Challan Register', path: '/apps/invoices' },
           { label: 'Challan #101 Detail', path: '/apps/invoices/101' },
         ],
+      },
+    ],
+  },
+  {
+    caption: 'Portals & Mobile Hub',
+    items: [
+      {
+        id: 'portal-parent',
+        label: 'Parent Portal',
+        path: '/portals/parent',
+        iconName: 'Users',
+        chip: 'Multi-Child',
+        chipVariant: 'outlined',
+      },
+      {
+        id: 'portal-teacher',
+        label: 'Teacher Workstation',
+        path: '/portals/teacher',
+        iconName: 'GraduationCap',
+        chip: 'Faculty',
+        chipVariant: 'outlined',
       },
     ],
   },
@@ -99,9 +148,11 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
     items: [
       {
         id: 'permissions',
-        label: 'Roles & Permissions',
+        label: '152-Row RBAC Matrix',
         path: '/pages/permissions',
         iconName: 'ShieldCheck',
+        chip: '152-Row',
+        chipVariant: 'outlined',
       },
       {
         id: 'account-setting',

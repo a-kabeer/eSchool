@@ -4,6 +4,7 @@ using eSchool.Modules.Accounting;
 using eSchool.Modules.Attendance;
 using eSchool.Modules.Billing;
 using eSchool.Modules.Identity;
+using eSchool.Modules.Operations;
 using eSchool.Modules.Students;
 using eSchool.SharedKernel;
 using Microsoft.EntityFrameworkCore;
@@ -20,11 +21,19 @@ public class AppDbContext : DbContext
         _tenantContext = tenantContext;
     }
 
-    // Identity
+    // Identity & RBAC
     public DbSet<School> Schools => Set<School>();
     public DbSet<User> Users => Set<User>();
+    public DbSet<UserType> UserTypes => Set<UserType>();
+    public DbSet<UserTypePermission> UserTypePermissions => Set<UserTypePermission>();
+    public DbSet<UserOverrideRight> UserOverrideRights => Set<UserOverrideRight>();
+    public DbSet<UserDashboardAccess> UserDashboardAccess => Set<UserDashboardAccess>();
+    public DbSet<UserMiscRight> UserMiscRights => Set<UserMiscRight>();
+    public DbSet<UserStudentTabAccess> UserStudentTabAccess => Set<UserStudentTabAccess>();
+    public DbSet<UserEmployeeTabAccess> UserEmployeeTabAccess => Set<UserEmployeeTabAccess>();
     public DbSet<UserSchoolAccess> UserSchoolAccess => Set<UserSchoolAccess>();
     public DbSet<UserPermission> UserPermissions => Set<UserPermission>();
+    public DbSet<DataLock> DataLocks => Set<DataLock>();
 
     // Academics
     public DbSet<AcademicSession> AcademicSessions => Set<AcademicSession>();
@@ -32,10 +41,16 @@ public class AppDbContext : DbContext
     public DbSet<Section> Sections => Set<Section>();
     public DbSet<Subject> Subjects => Set<Subject>();
 
-    // Students
+    // Students & Admissions Funnel
     public DbSet<Student> Students => Set<Student>();
+    public DbSet<Guardian> Guardians => Set<Guardian>();
+    public DbSet<StudentGuardianLink> StudentGuardianLinks => Set<StudentGuardianLink>();
     public DbSet<StudentGuardian> StudentGuardians => Set<StudentGuardian>();
     public DbSet<StudentEnrollment> StudentEnrollments => Set<StudentEnrollment>();
+    public DbSet<StudentInquiry> StudentInquiries => Set<StudentInquiry>();
+    public DbSet<StudentRegistration> StudentRegistrations => Set<StudentRegistration>();
+    public DbSet<StudentDisciplineComment> StudentDisciplineComments => Set<StudentDisciplineComment>();
+    public DbSet<StudentLeave> StudentLeaves => Set<StudentLeave>();
 
     // Billing
     public DbSet<FeeCategory> FeeCategories => Set<FeeCategory>();
@@ -43,6 +58,9 @@ public class AppDbContext : DbContext
     public DbSet<FeeInvoice> FeeInvoices => Set<FeeInvoice>();
     public DbSet<FeeInvoiceItem> FeeInvoiceItems => Set<FeeInvoiceItem>();
     public DbSet<FeePayment> FeePayments => Set<FeePayment>();
+    public DbSet<BankApiLog> BankApiLogs => Set<BankApiLog>();
+    public DbSet<EmployeeLoan> EmployeeLoans => Set<EmployeeLoan>();
+    public DbSet<EmployeeLoanSchedule> EmployeeLoanSchedules => Set<EmployeeLoanSchedule>();
 
     // Accounting
     public DbSet<AccountHead> AccountHeads => Set<AccountHead>();
@@ -55,6 +73,15 @@ public class AppDbContext : DbContext
 
     // Audit
     public DbSet<AuditLog> AuditLogs => Set<AuditLog>();
+
+    // Operations (Leave Engine, Library Circulation & Serialized Inventory)
+    public DbSet<LeaveType> LeaveTypes => Set<LeaveType>();
+    public DbSet<StaffLeaveApplication> StaffLeaveApplications => Set<StaffLeaveApplication>();
+    public DbSet<LibraryBook> LibraryBooks => Set<LibraryBook>();
+    public DbSet<LibraryBookCopy> LibraryBookCopies => Set<LibraryBookCopy>();
+    public DbSet<LibraryCirculation> LibraryCirculations => Set<LibraryCirculation>();
+    public DbSet<InventoryUnit> InventoryUnits => Set<InventoryUnit>();
+    public DbSet<AssetCustodyLog> AssetCustodyLogs => Set<AssetCustodyLog>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

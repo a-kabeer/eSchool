@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import {
   Users,
   UserPlus,
@@ -18,6 +19,7 @@ import { useToast } from '@/context/ToastContext';
 import type { Student } from '@/types';
 
 export function StudentsPage() {
+  const navigate = useNavigate();
   const { currentCampus } = useCampus();
   const { showToast } = useToast();
   const [students, setStudents] = useState<Student[]>([]);
@@ -300,15 +302,24 @@ export function StudentsPage() {
                       <StatusBadge label={s.status || 'Active'} tone="success" />
                     </td>
                     <td className="px-5 py-4 text-right">
-                      <Button
-                        tone="secondary"
-                        size="sm"
-                        onClick={() =>
-                          showToast(`Viewing digital card for ${s.name}`, 'info')
-                        }
-                      >
-                        ID Card
-                      </Button>
+                      <div className="flex items-center justify-end gap-2">
+                        <Button
+                          tone="primary"
+                          size="sm"
+                          onClick={() => navigate(`/sis/students/${s.id}/360`)}
+                        >
+                          360 Profile
+                        </Button>
+                        <Button
+                          tone="secondary"
+                          size="sm"
+                          onClick={() =>
+                            showToast(`Viewing digital card for ${s.name}`, 'info')
+                          }
+                        >
+                          ID Card
+                        </Button>
+                      </div>
                     </td>
                   </tr>
                 ))

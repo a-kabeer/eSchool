@@ -1,5 +1,6 @@
 using System.Threading.Channels;
 using eSchool.Infrastructure;
+using eSchool.Infrastructure.Services;
 using eSchool.SharedKernel;
 using eSchool.WebAPI.Hubs;
 using eSchool.Workers;
@@ -25,8 +26,9 @@ builder.Services.AddDbContext<AppDbContext>((sp, options) =>
     }
 });
 
-// 3. Multi-Tenant Context
+// 3. Multi-Tenant Context & Data Lock Guard
 builder.Services.AddScoped<ITenantContext, TenantContext>();
+builder.Services.AddScoped<IDataLockGuard, DataLockGuard>();
 
 // 4. SignalR Real-Time Communication
 builder.Services.AddSignalR();
@@ -67,6 +69,31 @@ using (var scope = app.Services.CreateScope())
 }
 
 app.UseCors("AllowReactApp");
+
+// RFC 7807 Data Lock Violation Middleware
+app.Use(async (context, next) =>
+{
+    try
+    {
+        await next();
+    }
+    catch (DataLockViolationException ex)
+    {
+        context.Response.StatusCode = StatusCodes.Status422UnprocessableEntity;
+        context.Response.ContentType = "application/problem+json";
+        await context.Response.WriteAsJsonAsync(new
+        {
+            type = "https://tools.ietf.org/html/rfc7807",
+            title = "Data Lock Violation",
+            status = 422,
+            detail = ex.Message,
+            code = "DATA_LOCK_VIOLATION",
+            sectionKey = ex.SectionKey,
+            lockDate = ex.LockDate.ToString("yyyy-MM-dd"),
+            transactionDate = ex.TransactionDate.ToString("yyyy-MM-dd")
+        });
+    }
+});
 
 app.UseAuthentication();
 app.UseAuthorization();
