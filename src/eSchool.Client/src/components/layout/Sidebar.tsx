@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import {
   BadgeDollarSign,
+  Banknote,
   BarChart3,
   ChevronDown,
   CircleDot,
@@ -39,6 +40,7 @@ const ICON_MAP: Record<string, React.ComponentType<{ className?: string }>> = {
   SlidersHorizontal,
   ShieldCheck,
   BadgeDollarSign,
+  Banknote,
   LockKeyhole,
   CircleDot,
 };

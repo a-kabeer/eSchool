@@ -269,3 +269,25 @@ export interface DashboardStats {
   }>;
 }
 
+export interface EmployeeSalary {
+  id: string;
+  employeeCode: string;
+  name: string;
+  designation: string;
+  department: string;
+  cnic: string;
+  bankAccountNumber: string;
+  basicSalary: number;
+  houseRentAllowance: number;
+  medicalAllowance: number;
+  conveyanceAllowance: number;
+  grossSalary: number;
+  eobiDeduction: number;
+  incomeTaxDeduction: number;
+  otherDeductions: number;
+  totalDeductions: number;
+  netSalary: number;
+  status: 'PENDING' | 'DISBURSED';
+}
+
+

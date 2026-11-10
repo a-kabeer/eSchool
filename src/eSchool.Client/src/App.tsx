@@ -15,6 +15,7 @@ import { FeeCounterPage } from '@/pages/billing/FeeCounterPage';
 import { GeneralLedgerPage } from '@/pages/finance/GeneralLedgerPage';
 import { DailyAttendancePage } from '@/pages/academic/DailyAttendancePage';
 import { ExaminationsPage } from '@/pages/academic/ExaminationsPage';
+import { PayrollPage } from '@/pages/hr/PayrollPage';
 
 import { InvoicesPage } from '@/pages/apps/InvoicesPage';
 import { InvoiceDetailPage } from '@/pages/apps/InvoiceDetailPage';
@@ -50,6 +51,7 @@ export function AppRoutes() {
         <Route path="/finance/general-ledger" element={<GeneralLedgerPage />} />
         <Route path="/academic/attendance" element={<DailyAttendancePage />} />
         <Route path="/academic/examinations" element={<ExaminationsPage />} />
+        <Route path="/hr/payroll" element={<PayrollPage />} />
 
         {/* Challans & Apps */}
         <Route path="/apps/invoices" element={<InvoicesPage />} />

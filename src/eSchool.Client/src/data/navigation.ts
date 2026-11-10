@@ -41,6 +41,14 @@ export const SIDEBAR_NAVIGATION: NavSection[] = [
         iconName: 'Table2',
       },
       {
+        id: 'hr-payroll',
+        label: 'HR & Payroll (FBR/EOBI)',
+        path: '/hr/payroll',
+        iconName: 'Banknote',
+        chip: 'FBR',
+        chipVariant: 'outlined',
+      },
+      {
         id: 'general-ledger',
         label: 'General Ledger & COA',
         path: '/finance/general-ledger',
