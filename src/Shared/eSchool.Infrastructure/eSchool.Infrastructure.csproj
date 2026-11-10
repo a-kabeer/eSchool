@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\eSchool.SharedKernel\eSchool.SharedKernel.csproj" />
+    <ProjectReference Include="..\..\Modules\Identity\eSchool.Modules.Identity.csproj" />
+    <ProjectReference Include="..\..\Modules\Academics\eSchool.Modules.Academics.csproj" />
+    <ProjectReference Include="..\..\Modules\Students\eSchool.Modules.Students.csproj" />
+    <ProjectReference Include="..\..\Modules\Billing\eSchool.Modules.Billing.csproj" />
+    <ProjectReference Include="..\..\Modules\Accounting\eSchool.Modules.Accounting.csproj" />
+    <ProjectReference Include="..\..\Modules\Attendance\eSchool.Modules.Attendance.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

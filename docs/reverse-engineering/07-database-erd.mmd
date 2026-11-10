@@ -1,0 +1,142 @@
+erDiagram
+    SCHOOLS ||--o{ CLASS_SECTIONS : operates
+    SCHOOLS ||--o{ STUDENTS : enrolls
+    SCHOOLS ||--o{ EMPLOYEES : employs
+    SCHOOLS ||--o{ FEE_STRUCTURES : defines
+    SCHOOLS ||--o{ VOUCHERS : records
+
+    ACADEMIC_SESSIONS ||--o{ STUDENTS : scopes
+    ACADEMIC_SESSIONS ||--o{ FEE_INVOICES : bills
+    ACADEMIC_SESSIONS ||--o{ EXAMS : schedules
+
+    CLASSES ||--o{ CLASS_SECTIONS : contains
+    SECTIONS ||--o{ CLASS_SECTIONS : groups
+    CLASS_SECTIONS ||--o{ STUDENTS : assigns
+    CLASS_SECTIONS ||--o{ STUDENT_ATTENDANCE : tracks
+
+    STUDENTS ||--o{ STUDENT_GUARDIANS : has
+    STUDENTS ||--o{ STUDENT_ATTENDANCE : logs
+    STUDENTS ||--o{ FEE_INVOICES : receives
+    STUDENTS ||--o{ EXAM_MARKS : achieves
+
+    USER_TYPES ||--o{ USER_TYPE_PERMISSIONS : configures
+    USER_TYPES ||--o{ USERS : classifies
+    USERS ||--o{ USER_SCHOOL_ACCESS : scoped_to
+    SCHOOLS ||--o{ USER_SCHOOL_ACCESS : permits
+
+    FEE_STRUCTURES ||--o{ FEE_STRUCTURE_ITEMS : contains
+    FEE_CATEGORIES ||--o{ FEE_STRUCTURE_ITEMS : categorized_by
+    FEE_INVOICES ||--o{ FEE_PAYMENTS : settles
+
+    EXAMS ||--o{ EXAM_MARKS : evaluates
+    SUBJECTS ||--o{ EXAM_MARKS : assesses
+
+    DEPARTMENTS ||--o{ EMPLOYEES : organizes
+    DESIGNATIONS ||--o{ EMPLOYEES : titles
+    EMPLOYEES ||--o{ EMPLOYEE_ATTENDANCE : logs
+    EMPLOYEES ||--o{ PAYROLLS : compensates
+    EMPLOYEES ||--o{ EMPLOYEE_LOANS : borrows
+
+    CHART_OF_ACCOUNTS ||--o{ VOUCHER_ENTRIES : debits_credits
+    CHART_OF_ACCOUNTS ||--o{ CHART_OF_ACCOUNTS : parent_child
+    VOUCHERS ||--o{ VOUCHER_ENTRIES : itemizes
+
+    SCHOOLS {
+        int id PK
+        string name
+        string code
+        string status
+    }
+
+    ACADEMIC_SESSIONS {
+        int id PK
+        string title
+        date start_date
+        date end_date
+        boolean is_current
+    }
+
+    STUDENTS {
+        int id PK
+        int school_id FK
+        int current_class_section_id FK
+        string registration_no UK
+        string name
+        string gender
+        date date_of_birth
+        string status
+    }
+
+    STUDENT_GUARDIANS {
+        int id PK
+        int student_id FK
+        string guardian_type
+        string name
+        string cnic_no
+        string mobile_no
+    }
+
+    FEE_INVOICES {
+        int id PK
+        string invoice_no UK
+        int student_id FK
+        int academic_session_id FK
+        decimal gross_amount
+        decimal net_payable
+        decimal paid_amount
+        string status
+    }
+
+    FEE_PAYMENTS {
+        int id PK
+        int invoice_id FK
+        string receipt_no UK
+        date payment_date
+        decimal amount_paid
+        string payment_method
+    }
+
+    VOUCHERS {
+        int id PK
+        string voucher_no UK
+        string voucher_type
+        int school_id FK
+        date voucher_date
+        decimal total_amount
+    }
+
+    VOUCHER_ENTRIES {
+        int id PK
+        int voucher_id FK
+        string account_code FK
+        string entry_type
+        decimal amount
+    }
+
+    CHART_OF_ACCOUNTS {
+        string code PK
+        string parent_code FK
+        string title
+        int level
+        string account_type
+    }
+
+    EMPLOYEES {
+        int id PK
+        int school_id FK
+        int department_id FK
+        int designation_id FK
+        string employee_no UK
+        string name
+        decimal basic_salary
+    }
+
+    PAYROLLS {
+        int id PK
+        int employee_id FK
+        int month
+        int year
+        decimal gross_salary
+        decimal net_salary
+        string payment_status
+    }

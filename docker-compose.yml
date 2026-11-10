@@ -1,0 +1,54 @@
+services:
+  eschool-postgres:
+    image: postgres:16-alpine
+    container_name: eschool-postgres
+    restart: always
+    environment:
+      POSTGRES_DB: eschool_db
+      POSTGRES_USER: eschool_admin
+      POSTGRES_PASSWORD: SecretPassword123!
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  eschool-redis:
+    image: redis:7.2-alpine
+    container_name: eschool-redis
+    restart: always
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+
+  eschool-api:
+    build:
+      context: .
+      dockerfile: src/eSchool.WebAPI/Dockerfile
+    container_name: eschool-api
+    restart: always
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=eschool-postgres;Database=eschool_db;Username=eschool_admin;Password=SecretPassword123!"
+      ConnectionStrings__Redis: "eschool-redis:6379"
+      ASPNETCORE_ENVIRONMENT: "Development"
+    depends_on:
+      - eschool-postgres
+      - eschool-redis
+    ports:
+      - "5000:5000"
+
+  eschool-web:
+    build:
+      context: ./src/eSchool.Client
+      dockerfile: Dockerfile
+    container_name: eschool-web
+    restart: always
+    ports:
+      - "80:80"
+      - "3000:80"
+    depends_on:
+      - eschool-api
+
+volumes:
+  postgres_data:
+  redis_data:

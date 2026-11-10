@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/eSchool.WebAPI/eSchool.WebAPI.csproj" />
+  </Folder>
+  <Folder Name="/src/BackgroundWorkers/">
+    <Project Path="src/BackgroundWorkers/eSchool.Workers.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Academics/">
+    <Project Path="src/Modules/Academics/eSchool.Modules.Academics.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Accounting/">
+    <Project Path="src/Modules/Accounting/eSchool.Modules.Accounting.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Attendance/">
+    <Project Path="src/Modules/Attendance/eSchool.Modules.Attendance.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Billing/">
+    <Project Path="src/Modules/Billing/eSchool.Modules.Billing.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/eSchool.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Students/">
+    <Project Path="src/Modules/Students/eSchool.Modules.Students.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/eSchool.Infrastructure/eSchool.Infrastructure.csproj" />
+    <Project Path="src/Shared/eSchool.SharedKernel/eSchool.SharedKernel.csproj" />
+  </Folder>
+</Solution>
