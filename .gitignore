@@ -24,6 +24,9 @@ yarn-error.log*
 *.pem
 *.key
 
+## Binaries
+*.apk
+
 ## OS & Editors
 .vscode/
 .idea/

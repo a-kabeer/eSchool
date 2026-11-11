@@ -1,0 +1,3776 @@
+{
+  "recentPayrolls": [
+    {
+      "q": "ajax/payroll/get-payroll.php?sEcho=1&iColumns=8&iDisplayStart=0&iDisplayLength=25&iSortingCols=1&iSortCol_0=0&sSortDir_0=desc&Posted=Y",
+      "total": 3220,
+      "display": 980,
+      "sample": [
+        [
+          "000535",
+          "<a href=\"hr/profile.php?Id=2\" target=\"_blank\">Iqra</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "15,000",
+          "14,800",
+          " <img class=\"icon details\" id=\"535\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"535\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"535\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"535\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=2&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000536",
+          "<a href=\"hr/profile.php?Id=5\" target=\"_blank\">Sofia Malik</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "18,000",
+          "17,800",
+          " <img class=\"icon details\" id=\"536\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"536\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"536\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"536\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=5&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000537",
+          "<a href=\"hr/profile.php?Id=6\" target=\"_blank\">Afrasiab Khan Khattak</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "60,000",
+          "59,400",
+          " <img class=\"icon details\" id=\"537\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"537\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"537\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"537\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=6&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000538",
+          "<a href=\"hr/profile.php?Id=14\" target=\"_blank\">Zaiton Rehman</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "50,000",
+          "50,000",
+          " <img class=\"icon details\" id=\"538\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"538\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"538\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"538\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=14&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000539",
+          "<a href=\"hr/profile.php?Id=20\" target=\"_blank\">Sumaira Naaz</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "15,000",
+          "15,000",
+          " <img class=\"icon details\" id=\"539\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"539\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"539\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"539\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=20&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000540",
+          "<a href=\"hr/profile.php?Id=21\" target=\"_blank\">Beeni Gull</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "10,000",
+          "9,800",
+          " <img class=\"icon details\" id=\"540\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"540\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"540\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"540\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=21&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000541",
+          "<a href=\"hr/profile.php?Id=24\" target=\"_blank\">Haadia Noor</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "40,000",
+          "40,000",
+          " <img class=\"icon details\" id=\"541\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"541\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"541\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"541\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=24&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000542",
+          "<a href=\"hr/profile.php?Id=29\" target=\"_blank\">Sana Zaheer</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "20,000",
+          "20,000",
+          " <img class=\"icon details\" id=\"542\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"542\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"542\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"542\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=29&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000544",
+          "<a href=\"hr/profile.php?Id=33\" target=\"_blank\">MT Shahzad</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "30,000",
+          "29,800",
+          " <img class=\"icon details\" id=\"544\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"544\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"544\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"544\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=33&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000545",
+          "<a href=\"hr/profile.php?Id=34\" target=\"_blank\">Muhammad Irfan</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "50,000",
+          "49,800",
+          " <img class=\"icon details\" id=\"545\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"545\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"545\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"545\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=34&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ]
+      ]
+    },
+    {
+      "q": "ajax/payroll/get-payroll.php?sEcho=1&iColumns=8&iDisplayStart=0&iDisplayLength=25&iSortingCols=1&iSortCol_0=0&sSortDir_0=desc",
+      "total": 3220,
+      "display": 3220,
+      "sample": [
+        [
+          "000522",
+          "<a href=\"hr/profile.php?Id=1\" target=\"_blank\">Amna</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "February 2019",
+          "121,212",
+          "119,036",
+          " <img class=\"icon details\" id=\"522\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"522\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"522\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"522\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=1&Year=2019&Month=2\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000523",
+          "<a href=\"hr/profile.php?Id=32\" target=\"_blank\">Younas Ibrar</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "February 2019",
+          "55,000",
+          "54,600",
+          " <img class=\"icon details\" id=\"523\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"523\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"523\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"523\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=32&Year=2019&Month=2\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000524",
+          "<a href=\"hr/profile.php?Id=39\" target=\"_blank\">Naheed Khuram</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "February 2019",
+          "70,000",
+          "52,953",
+          " <img class=\"icon details\" id=\"524\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"524\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"524\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"524\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=39&Year=2019&Month=2\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000525",
+          "<a href=\"hr/profile.php?Id=1\" target=\"_blank\">Amna</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "March 2019",
+          "121,212",
+          "118,542",
+          " <img class=\"icon details\" id=\"525\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"525\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"525\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"525\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=1&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000526",
+          "<a href=\"hr/profile.php?Id=32\" target=\"_blank\">Younas Ibrar</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "March 2019",
+          "55,000",
+          "54,550",
+          " <img class=\"icon details\" id=\"526\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"526\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"526\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"526\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=32&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000527",
+          "<a href=\"hr/profile.php?Id=39\" target=\"_blank\">Naheed Khuram</a>",
+          "eSchool Lahore",
+          "Admin department",
+          "March 2019",
+          "70,000",
+          "52,906",
+          " <img class=\"icon details\" id=\"527\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />15-Jan-2019 10:33 AM<br />\" /> <img class=\"icnEdit\" id=\"527\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"527\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"527\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=39&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000535",
+          "<a href=\"hr/profile.php?Id=2\" target=\"_blank\">Iqra</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "15,000",
+          "14,800",
+          " <img class=\"icon details\" id=\"535\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"535\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"535\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"535\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=2&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000536",
+          "<a href=\"hr/profile.php?Id=5\" target=\"_blank\">Sofia Malik</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "18,000",
+          "17,800",
+          " <img class=\"icon details\" id=\"536\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"536\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"536\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"536\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=5&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000537",
+          "<a href=\"hr/profile.php?Id=6\" target=\"_blank\">Afrasiab Khan Khattak</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "60,000",
+          "59,400",
+          " <img class=\"icon details\" id=\"537\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"537\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"537\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"537\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=6&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "000538",
+          "<a href=\"hr/profile.php?Id=14\" target=\"_blank\">Zaiton Rehman</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "March 2019",
+          "50,000",
+          "50,000",
+          " <img class=\"icon details\" id=\"538\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br /><br />16-Jan-2019 05:46 PM<br />\" /> <img class=\"icnEdit\" id=\"538\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"538\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"538\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=14&Year=2019&Month=3\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ]
+      ]
+    },
+    {
+      "q": "ajax/payroll/get-payroll.php?sEcho=1&iColumns=8&iDisplayStart=2800&iDisplayLength=40",
+      "total": 3220,
+      "display": 3220,
+      "sample": [
+        [
+          "003834",
+          "<a href=\"hr/profile.php?Id=177\" target=\"_blank\">Zain Malik</a>",
+          "eSchool Islamabad",
+          "Human Resource",
+          "July 2025",
+          "70,000",
+          "68,680",
+          " <img class=\"icon details\" id=\"3834\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3834\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3834\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3834\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=4&Employee=177&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003835",
+          "<a href=\"hr/profile.php?Id=184\" target=\"_blank\">Iram</a>",
+          "eSchool Islamabad",
+          "Teaching Staff",
+          "July 2025",
+          "28,000",
+          "27,680",
+          " <img class=\"icon details\" id=\"3835\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3835\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3835\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3835\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=4&Employee=184&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003836",
+          "<a href=\"hr/profile.php?Id=189\" target=\"_blank\">Ahmed</a>",
+          "eSchool Islamabad",
+          "Admin department",
+          "July 2025",
+          "10,000",
+          "10,000",
+          " <img class=\"icon details\" id=\"3836\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3836\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3836\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3836\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=4&Employee=189&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003837",
+          "<a href=\"hr/profile.php?Id=197\" target=\"_blank\">Saima bibi</a>",
+          "eSchool Islamabad",
+          "Teaching Staff",
+          "July 2025",
+          "15,000",
+          "15,000",
+          " <img class=\"icon details\" id=\"3837\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3837\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3837\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3837\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=4&Employee=197&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003838",
+          "<a href=\"hr/profile.php?Id=224\" target=\"_blank\">jafar</a>",
+          "eSchool Islamabad",
+          "Domestic staff",
+          "July 2025",
+          "80,000",
+          "56,680",
+          " <img class=\"icon details\" id=\"3838\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3838\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3838\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3838\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=4&Employee=224&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003839",
+          "<a href=\"hr/profile.php?Id=1\" target=\"_blank\">Amna</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "July 2025",
+          "121,212",
+          "119,892",
+          " <img class=\"icon details\" id=\"3839\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3839\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3839\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3839\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=1&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003840",
+          "<a href=\"hr/profile.php?Id=9\" target=\"_blank\">Allah Ditta</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "July 2025",
+          "60,000",
+          "58,680",
+          " <img class=\"icon details\" id=\"3840\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3840\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3840\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3840\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=9&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003841",
+          "<a href=\"hr/profile.php?Id=12\" target=\"_blank\">Burhan Ahmad</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "July 2025",
+          "2,500",
+          "2,180",
+          " <img class=\"icon details\" id=\"3841\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3841\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3841\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3841\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=12&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003842",
+          "<a href=\"hr/profile.php?Id=14\" target=\"_blank\">Zaiton Rehman</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "July 2025",
+          "50,000",
+          "50,000",
+          " <img class=\"icon details\" id=\"3842\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3842\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3842\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3842\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=14&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "003843",
+          "<a href=\"hr/profile.php?Id=19\" target=\"_blank\">Rafia</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "July 2025",
+          "10,000",
+          "9,180",
+          " <img class=\"icon details\" id=\"3843\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />04-Aug-2025 04:21 PM<br />\" /> <img class=\"icnEdit\" id=\"3843\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"3843\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"3843\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=19&Year=2025&Month=7\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ]
+      ]
+    },
+    {
+      "q": "ajax/payroll/get-payroll.php?sEcho=1&iColumns=8&iDisplayStart=3180&iDisplayLength=40",
+      "total": 3220,
+      "display": 3220,
+      "sample": [
+        [
+          "004220",
+          "<a href=\"hr/profile.php?Id=9\" target=\"_blank\">Allah Ditta</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "80,000",
+          "75,000",
+          " <img class=\"icon details\" id=\"4220\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4220\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4220\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4220\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=9&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004221",
+          "<a href=\"hr/profile.php?Id=12\" target=\"_blank\">Burhan Ahmad</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "2,500",
+          "2,500",
+          " <img class=\"icon details\" id=\"4221\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4221\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4221\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4221\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=12&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004222",
+          "<a href=\"hr/profile.php?Id=14\" target=\"_blank\">Zaiton Rehman</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "50,000",
+          "50,000",
+          " <img class=\"icon details\" id=\"4222\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4222\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4222\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4222\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=14&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004223",
+          "<a href=\"hr/profile.php?Id=19\" target=\"_blank\">Rafia</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "10,000",
+          "9,500",
+          " <img class=\"icon details\" id=\"4223\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4223\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4223\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4223\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=19&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004224",
+          "<a href=\"hr/profile.php?Id=21\" target=\"_blank\">Beeni Gull</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "10,000",
+          "9,500",
+          " <img class=\"icon details\" id=\"4224\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4224\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4224\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4224\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=21&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004225",
+          "<a href=\"hr/profile.php?Id=24\" target=\"_blank\">Haadia Noor</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "40,000",
+          "40,000",
+          " <img class=\"icon details\" id=\"4225\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4225\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4225\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4225\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=24&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004226",
+          "<a href=\"hr/profile.php?Id=29\" target=\"_blank\">Sana Zaheer</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "20,000",
+          "20,000",
+          " <img class=\"icon details\" id=\"4226\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4226\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4226\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4226\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=29&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004227",
+          "<a href=\"hr/profile.php?Id=31\" target=\"_blank\">Hamid</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "522,222",
+          "522,222",
+          " <img class=\"icon details\" id=\"4227\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4227\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4227\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4227\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=31&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004228",
+          "<a href=\"hr/profile.php?Id=33\" target=\"_blank\">MT Shahzad</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "30,000",
+          "29,000",
+          " <img class=\"icon details\" id=\"4228\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4228\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4228\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4228\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=33&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ],
+        [
+          "004229",
+          "<a href=\"hr/profile.php?Id=34\" target=\"_blank\">Muhammad Irfan</a>",
+          "eSchool Lahore",
+          "Teaching Staff",
+          "August 2026",
+          "50,000",
+          "45,000",
+          " <img class=\"icon details\" id=\"4229\" src=\"images/icons/info.png\" alt=\"\" title=\"<b>Created By:</b><br />Anum<br />28-Aug-2026 05:10 PM<br />\" /> <img class=\"icnEdit\" id=\"4229\" src=\"images/icons/edit.gif\" alt=\"Edit\" title=\"Edit\" /> <img class=\"icnDelete\" id=\"4229\" src=\"images/icons/delete.gif\" alt=\"Delete\" title=\"Delete\" /> <img class=\"icnView\" id=\"4229\" src=\"images/icons/view.gif\" alt=\"View\" title=\"View\" /> <a href=\"payroll/export-pay-slip.php?School=1&Employee=34&Year=2026&Month=8\"><img class=\"icnPdf\" src=\"images/icons/pdf.png\" alt=\"Pay Slip\" title=\"Pay Slip\" /></a>"
+        ]
+      ]
+    }
+  ],
+  "salaryEditOrViewSamples": [
+    {
+      "pid": "535",
+      "row": [
+        "000535",
+        "<a href=\"hr/profile.php?Id=2\" target=\"_blank\">Iqra</a>",
+        "eSchool Lahore",
+        "Teaching Staff",
+        "March 2019",
+        "15,000",
+        "14,800"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Teaching Staff Designation Subject wise teacher Employee Iqra (000002) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 15,000",
+              "Basic Salary 13,636 Medical Allowance 1,364 Income Tax - 0 EOBI Contribution - 200 Payable Salary 14,800",
+              "Payment Mode Bank Transfer Bank Meezan BanK Branch Code 2552 Account No 698974232362 Salary Date 31-Mar-2019 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Islamabad Department Teaching Staff Designation Vice Principal Employee Iqra (000002) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 15,000 Save Payroll Cancel Basic Salary 13,636 Medical Allowance 1,364 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 14,800 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Salary Date* Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620"
+    },
+    {
+      "pid": "536",
+      "row": [
+        "000536",
+        "<a href=\"hr/profile.php?Id=5\" target=\"_blank\">Sofia Malik</a>",
+        "eSchool Lahore",
+        "Teaching Staff",
+        "March 2019",
+        "18,000",
+        "17,800"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Teaching Staff Designation Subject wise teacher Employee Sofia Malik (000005) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 18,000",
+              "Basic Salary 16,364 Medical Allowance 1,636 Income Tax - 0 EOBI Contribution - 200 Payable Salary 17,800",
+              "Payment Mode Bank Transfer Bank Meezan BanK Branch Code 126 Account No 3699874521 Salary Date 31-Mar-2019 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Karachi Department Teaching Staff Designation Teacher Employee Sofia Malik (000005) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 18,000 Save Payroll Cancel Basic Salary 16,364 Medical Allowance 1,636 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 17,800 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Salary Date* Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 602862031"
+    },
+    {
+      "pid": "537",
+      "row": [
+        "000537",
+        "<a href=\"hr/profile.php?Id=6\" target=\"_blank\">Afrasiab Khan Khattak</a>",
+        "eSchool Lahore",
+        "Teaching Staff",
+        "March 2019",
+        "60,000",
+        "59,400"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Teaching Staff Designation Subject wise teacher Employee Afrasiab Khan Khattak (000006) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 60,000",
+              "Basic Salary 54,545 Medical Allowance 5,455 Income Tax - 0 EOBI Contribution - 200 Payable Salary 59,400",
+              "Payment Mode Bank Transfer Bank Meezan BanK Branch Code 0000 Account No 000000000 Salary Date 31-Mar-2019 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Karachi Department Teaching Staff Designation Class Incharge123 Employee Afrasiab Khan Khattak (000006) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 60,000 Save Payroll Cancel Basic Salary 54,545 Medical Allowance 5,455 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 59,400 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Salary Date* Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-1259322"
+    },
+    {
+      "pid": "538",
+      "row": [
+        "000538",
+        "<a href=\"hr/profile.php?Id=14\" target=\"_blank\">Zaiton Rehman</a>",
+        "eSchool Lahore",
+        "Teaching Staff",
+        "March 2019",
+        "50,000",
+        "50,000"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Teaching Staff Designation Subject wise teacher Employee Zaiton Rehman (000014) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 50,000",
+              "Basic Salary 45,454 Medical Allowance 4,546 Income Tax - 0 Payable Salary 50,000",
+              "Payment Mode Cash Salary Date 31-Mar-2019 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Lahore Department Teaching Staff Designation Subject wise teacher Employee Zaiton Rehman (000014) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 50,000 Save Payroll Cancel Basic Salary 45,454 Medical Allowance 4,546 Income Tax Additional Tax Payable Salary 50,000 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Salary Date* Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853"
+    },
+    {
+      "pid": "539",
+      "row": [
+        "000539",
+        "<a href=\"hr/profile.php?Id=20\" target=\"_blank\">Sumaira Naaz</a>",
+        "eSchool Lahore",
+        "Teaching Staff",
+        "March 2019",
+        "15,000",
+        "15,000"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Teaching Staff Designation Class Incharge123 Employee Sumaira Naaz (000020) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 15,000",
+              "Basic Salary 13,636 Medical Allowance 1,364 Income Tax - 0 Payable Salary 15,000",
+              "Payment Mode Bank Transfer Bank Meezan BanK Branch Code 122 Account No 000000000000 Salary Date 31-Mar-2019 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Lahore Department Teaching Staff Designation Class Incharge123 Employee Sumaira Naaz (000020) Month / Year March 2019 (01-Mar-2019 to 31-Mar-2019) Gross Salary 15,000 Save Payroll Cancel Basic Salary 13,636 Medical Allowance 1,364 Income Tax Additional Tax Payable Salary 15,000 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Salary Date* Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002"
+    },
+    {
+      "pid": "522",
+      "row": [
+        "000522",
+        "<a href=\"hr/profile.php?Id=1\" target=\"_blank\">Amna</a>",
+        "eSchool Lahore",
+        "Admin department",
+        "February 2019",
+        "121,212",
+        "119,036"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Admin department Designation Administrator Employee Amna (000001) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 121,212",
+              "Basic Salary 110,193 Medical Allowance 11,019 Income Tax - 1,976 EOBI Contribution - 200 Payable Salary 119,036",
+              "Payment Mode Bank Transfer Bank Gaston Bank Branch Code 1212 Account No 12qwqwqw Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Lahore Department Teaching Staff Designation Vice Principal Employee Amna (000001) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 121,212 Save Payroll Cancel Basic Salary 110,193 Medical Allowance 11,019 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 119,036 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104"
+    },
+    {
+      "pid": "523",
+      "row": [
+        "000523",
+        "<a href=\"hr/profile.php?Id=32\" target=\"_blank\">Younas Ibrar</a>",
+        "eSchool Lahore",
+        "Admin department",
+        "February 2019",
+        "55,000",
+        "54,600"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Admin department Designation Administrator Employee Younas Ibrar (000032) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 55,000",
+              "Basic Salary 50,000 Medical Allowance 5,000 Income Tax - 200 EOBI Contribution - 200 Payable Salary 54,600",
+              "Payment Mode Cash Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Islamabad Department Teaching Staff Designation Senior Teacher Employee Younas Ibrar (000032) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 55,000 Save Payroll Cancel Basic Salary 50,000 Medical Allowance 5,000 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 54,600 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 602862031"
+    },
+    {
+      "pid": "524",
+      "row": [
+        "000524",
+        "<a href=\"hr/profile.php?Id=39\" target=\"_blank\">Naheed Khuram</a>",
+        "eSchool Lahore",
+        "Admin department",
+        "February 2019",
+        "70,000",
+        "52,953"
+      ],
+      "view": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "School eSchool Lahore Department Admin department Designation Administrator Employee Naheed Khuram (000039) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 70,000",
+              "Basic Salary 63,636 Medical Allowance 6,364 Income Tax - 181 EOBI Contribution - 200 Payable Salary 52,953",
+              "Payment Mode Bank Transfer Bank MCB Branch Code 353 Account No 5 Bank Account (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311714104853 002 - 33333333333 002 - 22222222222 002 - 5600000005656 002 - 120-0978-9874-987 002 - 546578679898 002 - 18-377377371-123 002 - 6666666666666666666666666 002 - 029384 002 - 123456789123 0072 - PK18HABB0050417901395003 Cheque Book Cheque No"
+            ]
+          ]
+        }
+      ],
+      "editText": "School eSchool Lahore Department Admin department Designation Administrator Employee Naheed Khuram (000039) Month / Year February 2019 (01-Feb-2019 to 28-Feb-2019) Gross Salary 70,000 Save Payroll Cancel Basic Salary 63,636 Medical Allowance 6,364 Income Tax Additional Tax EOBI Contribution - 200 Payable Salary 52,953 Payment Mode Bank Transfer Cheque Cash Bank abl Allied bank Askri Commercial Bank Bank al habib limited Bank Alfalah Gaston Bank HBL MCB Meezan BanK Branch Code Account No Bank Account* (Salary Source) 002 - 3501-589746321 002 - 0412-37100264 002 - 17-125932221-2 002 - 6028620311"
+    }
+  ],
+  "vouchersByType": {
+    "JV": {
+      "total": 239,
+      "items": [
+        {
+          "vNo": "JV26270010",
+          "vType": "Journal Voucher",
+          "school": "eschool sargodha",
+          "amount": "0",
+          "mode": "-",
+          "date": "01-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Opening Balance on Year 2025-26 Closing Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "Total",
+                  "0",
+                  "0"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "JV26270009",
+          "vType": "Journal Voucher",
+          "school": "Bahria",
+          "amount": "0",
+          "mode": "-",
+          "date": "01-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Opening Balance on Year 2025-26 Closing Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "Total",
+                  "0",
+                  "0"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "JV26270008",
+          "vType": "Journal Voucher",
+          "school": "Momentous Schools",
+          "amount": "0",
+          "mode": "-",
+          "date": "01-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Opening Balance on Year 2025-26 Closing Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "Total",
+                  "0",
+                  "0"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "PV": {
+      "total": 322,
+      "items": [
+        {
+          "vNo": "PV26270004",
+          "vType": "Payment Voucher",
+          "school": "eSchool Lahore",
+          "amount": "24,000",
+          "mode": "Cash",
+          "date": "28-Aug-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "50061",
+                  "chairs test",
+                  "etc",
+                  "24,000",
+                  "0"
+                ],
+                [
+                  "30029",
+                  "Cash in Hand",
+                  "etc",
+                  "0",
+                  "24,000"
+                ],
+                [
+                  "Total",
+                  "24,000",
+                  "24,000"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "PV26270003",
+          "vType": "Payment Voucher",
+          "school": "eSchool Islamabad",
+          "amount": "500",
+          "mode": "Cash",
+          "date": "10-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "50058",
+                  "Operating Expenses",
+                  "test",
+                  "500",
+                  "0"
+                ],
+                [
+                  "30029",
+                  "Cash in Hand",
+                  "test",
+                  "0",
+                  "500"
+                ],
+                [
+                  "Total",
+                  "500",
+                  "500"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "PV26270002",
+          "vType": "Payment Voucher",
+          "school": "eSchool Islamabad",
+          "amount": "2,000",
+          "mode": "Cash",
+          "date": "10-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "50007",
+                  "Misc expenses",
+                  "Daily Expense",
+                  "2,000",
+                  "0"
+                ],
+                [
+                  "30029",
+                  "Cash in Hand",
+                  "Daily Expense",
+                  "0",
+                  "2,000"
+                ],
+                [
+                  "Total",
+                  "2,000",
+                  "2,000"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "RV": {
+      "total": 17,
+      "items": [
+        {
+          "vNo": "RV26270001",
+          "vType": "Receipt Voucher",
+          "school": "eSchool Lahore",
+          "amount": "400",
+          "mode": "Cash",
+          "date": "28-Aug-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30029",
+                  "Cash in Hand",
+                  "etc",
+                  "400",
+                  "0"
+                ],
+                [
+                  "40021",
+                  "Stationary Income",
+                  "etc",
+                  "0",
+                  "400"
+                ],
+                [
+                  "Total",
+                  "400",
+                  "400"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "RV25260004",
+          "vType": "Receipt Voucher",
+          "school": "eSchool Islamabad",
+          "amount": "24,000",
+          "mode": "Bank Transfer",
+          "date": "16-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30021",
+                  "ALLIED BANK LIMITED",
+                  "recieved",
+                  "24,000",
+                  "0"
+                ],
+                [
+                  "40022",
+                  "dumy",
+                  "recieved",
+                  "0",
+                  "24,000"
+                ],
+                [
+                  "Total",
+                  "24,000",
+                  "24,000"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "RV25260003",
+          "vType": "Receipt Voucher",
+          "school": "Dar e Arqam",
+          "amount": "5,000",
+          "mode": "Cash",
+          "date": "01-Oct-2024",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30045",
+                  "Cash Account",
+                  "Funds",
+                  "5,000",
+                  "0"
+                ],
+                [
+                  "40004003",
+                  "Income",
+                  "Funds",
+                  "0",
+                  "5,000"
+                ],
+                [
+                  "Total",
+                  "5,000",
+                  "5,000"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CV": {
+      "total": 5,
+      "items": [
+        {
+          "vNo": "CV26270002",
+          "vType": "CV",
+          "school": "eSchool Lahore",
+          "amount": "6,000",
+          "mode": "-",
+          "date": "28-Aug-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30029",
+                  "Cash in Hand",
+                  "cash withdrawal",
+                  "6,000",
+                  "0"
+                ],
+                [
+                  "30021",
+                  "ALLIED BANK LIMITED",
+                  "cash withdrawal",
+                  "0",
+                  "6,000"
+                ],
+                [
+                  "Total",
+                  "6,000",
+                  "6,000"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "CV26270001",
+          "vType": "CV",
+          "school": "eSchool Islamabad",
+          "amount": "24,000",
+          "mode": "-",
+          "date": "16-Jul-2026",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30045",
+                  "Cash Account",
+                  "cash",
+                  "24,000",
+                  "0"
+                ],
+                [
+                  "30021",
+                  "ALLIED BANK LIMITED",
+                  "cash",
+                  "0",
+                  "24,000"
+                ],
+                [
+                  "Total",
+                  "24,000",
+                  "24,000"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "vNo": "CV000003",
+          "vType": "CV",
+          "school": "eSchool Karachi",
+          "amount": "12,000",
+          "mode": "-",
+          "date": "19-Apr-2018",
+          "tables": [
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "Voucher Type Journal Voucher Payment Voucher Receipt Voucher Contra Voucher Voucher No Payment Method Bank Transfer Cash Cheque Payee Name Cheque Book 00003000 - 00003100 00011110 - 00011160 00012001 - 00012050 Cheque No Cheque No Cheque Date Date",
+                  "School Bahria Dar e Arqam eSchool Islamabad eSchool Karachi eSchool Lahore eschool sargodha Garhi Sahib Khan Momentous Schools Sindh Rural Support Organization Details (Optional) Status Active In-Active"
+                ]
+              ]
+            },
+            {
+              "id": "",
+              "headers": [],
+              "rows": [
+                [
+                  "A/C No",
+                  "A/C Description",
+                  "Particular",
+                  "Debit",
+                  "Credit"
+                ],
+                [
+                  "30031",
+                  "sales",
+                  "sale",
+                  "12,000",
+                  "0"
+                ],
+                [
+                  "30045",
+                  "Cash Account",
+                  "sale",
+                  "0",
+                  "12,000"
+                ],
+                [
+                  "Total",
+                  "12,000",
+                  "12,000"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ledgerStatementsWithTx": {
+    "Liabilities » Income Taxes » Employee Income Taxes": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=187&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=187&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » 1 » Loan (Liabilities » 1 » Loan[acc": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=231&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=231&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » Salaries Payable (Liabilities » Sala": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=132&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=132&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » Student Security Fee (Liabilities » ": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=180&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=180&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » Employees Provident Fund (Liabilitie": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=185&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=185&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » Employee EOBI (Liabilities » Employe": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=186&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=186&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Liabilities » Employee Social Security (Liabilitie": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=190&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=190&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Assets » Monthly Fee Receivable (Assets » Monthly ": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=178&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=178&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Assets » Loan allocated to Employee (Assets » Loan": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=188&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=188&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Income » Fee » Income (Income » Fee » Income[accou": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=136&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=136&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Income » Monthly Fee (Income » Monthly Fee[account": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=181&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=181&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    },
+    "Income » Admission Fee (Income » Admission Fee[acc": {
+      "rowCount": 3,
+      "sampleRows": [
+        [
+          "#",
+          "Particular",
+          "Date",
+          "Debit (PKR)",
+          "Credit (PKR)",
+          "Balance (PKR)"
+        ],
+        [
+          "1",
+          "Opening Balance",
+          "01-Jan-2015",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "",
+          "Ledger Balance",
+          "30-Jun-2015",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "drillLinks": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Ledger",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=182&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-1",
+          "rel": null
+        },
+        {
+          "cls": "",
+          "text": "Statement",
+          "href": "/admin/accounts/ledger-statement.php?LedgerId=182&School=0&FromDate=2015-01-01&ToDate=2026-11-11#tabs-2",
+          "rel": null
+        }
+      ]
+    }
+  },
+  "billingRecentSspOrNav": {
+    "navigatorJsAjax": [
+      "ajax/billing/delete-fee.php",
+      "ajax/billing/delete-fee.php",
+      "ajax/billing/print-fee-receipt.php"
+    ],
+    "student1064Profile": {
+      "tables": [
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "",
+              "Abdulmoiz eSchool Islamabad VII » A Registration # 001064 Registration Date 19-Jul-2023 Joining Date 29-Jul-2023 Roll No 435 Current Session 2026-2027 Active Fee Defaulter 172,400 Security Deposit Rs (0)",
+              "Registration #",
+              "001064",
+              "Registration Date",
+              "19-Jul-2023",
+              "Joining Date",
+              "29-Jul-2023",
+              "Roll No",
+              "435",
+              "Current Session",
+              "2026-2027",
+              "Active",
+              "",
+              "Fee Defaulter",
+              "172,400",
+              "Security Deposit",
+              "Rs (0)",
+              "",
+              "Address Rawalpindi Raja Bazar, Rawalpindi Phone Mobile 0325-5393996 Email",
+              "Address",
+              "Rawalpindi Raja Bazar, Rawalpindi",
+              "Phone",
+              "",
+              "Mobile",
+              "0325-5393996",
+              "Email",
+              "",
+              ""
+            ],
+            [
+              "Registration #",
+              "001064"
+            ],
+            [
+              "Registration Date",
+              "19-Jul-2023"
+            ],
+            [
+              "Joining Date",
+              "29-Jul-2023"
+            ],
+            [
+              "Roll No",
+              "435"
+            ],
+            [
+              "Current Session",
+              "2026-2027"
+            ],
+            [
+              "Active",
+              ""
+            ],
+            [
+              "Fee Defaulter",
+              "172,400"
+            ],
+            [
+              "Security Deposit",
+              "Rs (0)"
+            ],
+            [
+              "Address",
+              "Rawalpindi Raja Bazar, Rawalpindi"
+            ],
+            [
+              "Phone",
+              ""
+            ],
+            [
+              "Mobile",
+              "0325-5393996"
+            ],
+            [
+              "Email",
+              ""
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Registration #",
+              "001064"
+            ],
+            [
+              "Registration Date",
+              "19-Jul-2023"
+            ],
+            [
+              "Joining Date",
+              "29-Jul-2023"
+            ],
+            [
+              "Roll No",
+              "435"
+            ],
+            [
+              "Current Session",
+              "2026-2027"
+            ],
+            [
+              "Active",
+              ""
+            ],
+            [
+              "Fee Defaulter",
+              "172,400"
+            ],
+            [
+              "Security Deposit",
+              "Rs (0)"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Address",
+              "Rawalpindi Raja Bazar, Rawalpindi"
+            ],
+            [
+              "Phone",
+              ""
+            ],
+            [
+              "Mobile",
+              "0325-5393996"
+            ],
+            [
+              "Email",
+              ""
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Personal Information Date of Birth 21-Dec-2014 Birth Place Any Disability B-Form # Weight (kg) Height (cm) Blood Group Hand Right Religion Islam Nationality Pakistani Previous School Previous Class Tax Exemption (Student Fee) No Tax Payer Father",
+              "",
+              "Father Information Name zafar abbas C.N.I.C # 46547-6746746-5 N.T.N Marital Status Married Qualification Occupation Company Department Designation Address Rawalpindi Raja Bazar, Rawalpindi Phone No Mobile No 0325-5393996 Email Address",
+              "",
+              "Mother Information Name hajra C.N.I.C # 54657-5647856-7 N.T.N Marital Status Married Qualification Occupation Company Department Designation Address Rawalpindi Raja Bazar, Rawalpindi Phone No Mobile No Email Address",
+              "",
+              "Emergency Contact Contact Name zafar abbas Relation (with student) Father Phone No Mobile No 0325-5393996 Address Rawalpindi Raja Bazar, Rawalpindi"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Last 15 Attendance Records Date Time IN 28-May-2026 Holiday 27-May-2026 Holiday 21-Jan-2026 08:00 AM 18-Mar-2025 Holiday 17-Mar-2025 Holiday 15-Mar-2025 Holiday 14-Mar-2025 Holiday 13-Mar-2025 Holiday 12-Mar-2025 Holiday 11-Mar-2025 Holiday 10-Mar-2025 Holiday 08-Mar-2025 Holiday 07-Mar-2025 Holiday 06-Mar-2025 Holiday 05-Mar-2025 Holiday",
+              "Date",
+              "Time IN",
+              "28-May-2026",
+              "Holiday",
+              "27-May-2026",
+              "Holiday",
+              "21-Jan-2026",
+              "08:00 AM",
+              "18-Mar-2025",
+              "Holiday",
+              "17-Mar-2025",
+              "Holiday",
+              "15-Mar-2025",
+              "Holiday",
+              "14-Mar-2025",
+              "Holiday",
+              "13-Mar-2025",
+              "Holiday",
+              "12-Mar-2025",
+              "Holiday",
+              "11-Mar-2025",
+              "Holiday",
+              "10-Mar-2025",
+              "Holiday",
+              "08-Mar-2025",
+              "Holiday",
+              "07-Mar-2025",
+              "Holiday",
+              "06-Mar-2025",
+              "Holiday",
+              "05-Mar-2025",
+              "Holiday",
+              "",
+              "Attendance Summmary Month Presents Absents Leaves Holidays Late Comings Avg. Time IN May 2026 0 0 0 2 0 Jan 2026 1 0 0 0 0 08:00 AM Mar 2025 0 0 0 15 0 Aug 2024 1 0 0 0 0 08:00 AM May 2024 15 4 1 0 0 08:00 AM Apr 2024 2 0 0 0 0 08:00 AM Mar 2024 2 0 0 0 0 08:00 AM Dec 2023 20 1 0 0 0 08:00 AM Nov 2023 0 0 0 2 0 Oct 2023 16 2 0 0 0 08:00 AM Aug 2023 22 3 0 0 0 08:00 AM",
+              "Month",
+              "Presents",
+              "Absents",
+              "Leaves",
+              "Holidays",
+              "Late Comings",
+              "Avg. Time IN",
+              "May 2026",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              "",
+              "Jan 2026",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "Mar 2025",
+              "0",
+              "0",
+              "0",
+              "15",
+              "0",
+              "",
+              "Aug 2024",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "May 2024",
+              "15",
+              "4",
+              "1",
+              "0",
+              "0",
+              "08:00 AM",
+              "Apr 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "Mar 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "Dec 2023",
+              "20",
+              "1",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "Nov 2023",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              "",
+              "Oct 2023",
+              "16",
+              "2",
+              "0",
+              "0",
+              "0",
+              "08:00 AM",
+              "Aug 2023",
+              "22",
+              "3",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Date",
+              "Time IN"
+            ],
+            [
+              "28-May-2026",
+              "Holiday"
+            ],
+            [
+              "27-May-2026",
+              "Holiday"
+            ],
+            [
+              "21-Jan-2026",
+              "08:00 AM"
+            ],
+            [
+              "18-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "17-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "15-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "14-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "13-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "12-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "11-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "10-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "08-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "07-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "06-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "05-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "Month",
+              "Presents",
+              "Absents",
+              "Leaves",
+              "Holidays",
+              "Late Comings",
+              "Avg. Time IN"
+            ],
+            [
+              "May 2026",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              ""
+            ],
+            [
+              "Jan 2026",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Mar 2025",
+              "0",
+              "0",
+              "0",
+              "15",
+              "0",
+              ""
+            ],
+            [
+              "Aug 2024",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "May 2024",
+              "15",
+              "4",
+              "1",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Apr 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Mar 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Dec 2023",
+              "20",
+              "1",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Nov 2023",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              ""
+            ],
+            [
+              "Oct 2023",
+              "16",
+              "2",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Aug 2023",
+              "22",
+              "3",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Date",
+              "Time IN"
+            ],
+            [
+              "28-May-2026",
+              "Holiday"
+            ],
+            [
+              "27-May-2026",
+              "Holiday"
+            ],
+            [
+              "21-Jan-2026",
+              "08:00 AM"
+            ],
+            [
+              "18-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "17-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "15-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "14-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "13-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "12-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "11-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "10-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "08-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "07-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "06-Mar-2025",
+              "Holiday"
+            ],
+            [
+              "05-Mar-2025",
+              "Holiday"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Month",
+              "Presents",
+              "Absents",
+              "Leaves",
+              "Holidays",
+              "Late Comings",
+              "Avg. Time IN"
+            ],
+            [
+              "May 2026",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              ""
+            ],
+            [
+              "Jan 2026",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Mar 2025",
+              "0",
+              "0",
+              "0",
+              "15",
+              "0",
+              ""
+            ],
+            [
+              "Aug 2024",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "May 2024",
+              "15",
+              "4",
+              "1",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Apr 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Mar 2024",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Dec 2023",
+              "20",
+              "1",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Nov 2023",
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              ""
+            ],
+            [
+              "Oct 2023",
+              "16",
+              "2",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ],
+            [
+              "Aug 2023",
+              "22",
+              "3",
+              "0",
+              "0",
+              "0",
+              "08:00 AM"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "#",
+              "Subject",
+              "Teacher",
+              "Total",
+              "Marks",
+              "Grade"
+            ],
+            [
+              "1",
+              "Chemistry",
+              "Muhammad Abdullah",
+              "100",
+              "90.00",
+              ""
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Report Card (Report Card[exams/export-student-report-card.php?School=4&Session=8&Class=12&Exam=40&Student=1064|rel=|cls=noLine])",
+              "Status: Hold"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "2026-2027 Bill # Billing Period Amount Due Date Paid Date Fine Options 023203 Aug 2026 13,250 10-Aug-2026 - - 022599 Jul 2026 7,250 10-Jul-2026 - - 022390 May 2026 7,250 10-May-2026 - - 2025-2026 Bill # Billing Period Amount Due Date Paid Date Fine Options 022713 Jun 2026 7,250 30-Jun-2026 - - 021812 Feb 2026 16,200 10-Feb-2026 - - 021556 Jan 2026 18,200 10-Jan-2026 - - 020763 Nov 2025 16,200 10-Nov-2025 - - 020266 Aug 2025 16,200 10-Aug-2025 - - 020075 Jul 2025 16,200 10-Jul-2025 - - 019900 Jun 2025 16,200 10-Jun-2025 - - 019807 May 2025 16,200 10-May-2025 - - 019336 Apr 2025 15,000 10-Apr-2025 14-May-2025 500 2024-2025 Bill # Billing Period Amount Due Date Paid Date Fine Options 018737 Feb 2025 12,000 10-Feb-2025 14-May-2025 500 018503 Jan 2025 12,000 10-Jan-2025 14-May-2025 500 017633 Nov 2024 12,000 10-Nov-2024 05-Nov-2024 0 017611 Oct 2024 7,000 10-Oct-2024 16-Oct-2024 150 017370 Oct 2024 5,000 10-Oct-2024 16-Oct-2024 150 016863 Aug 2024 12,000 10-Aug-2024 06-Aug-2024 0 016628 Jul 2024 12,000 10-Jul-2024 06-Aug-2024 500 016528 test 7,000 10-Jun-2024 - - 016361 Jun 2024 15,000 10-Jun-2024 10-Jun-2024 0 016216 May 2024 # 2 7,500 10-May-2024 - - 015977 May 2024 7,500 10-May-2024 10-Jun-2024 500 2023-2024 Bill # Billing Period Amount Due Date Paid Date Fine Options 015855 Apr 2024 # 2 7,500 10-May-2024 - - 015577 Apr 2024 7,500 10-Apr-2024 29-Apr-2024 475 015034 Mar 2024 15,000 10-Mar-2024 08-Mar-2024 0 014516 Feb 2024 13,000 10-Feb-2024 06-Feb-2024 0 014416 Jan 2024 13,000 10-Jan-2024 11-Jan-2024 25 014068 Dec 2023 13,000 10-Dec-2023 08-Jan-2024 500 013761 Nov 2023 13,000 10-Nov-2023 03-Nov-2023 0 013538 Oct 2023 13,000 10-Oct-2023 03-Nov-2023 500 013492 Sep 2023 13,000 10-Sep-2023 03-Nov-2023 500 013407 Aug 2023 3,000 10-Aug-2023 03-Nov-2023 500 013088 Aug 2023 10,000 10-Aug-2023 09-Aug-2023 0 013026 Jul 2023 0 10-Jul-2023 13-Jul-2023 0 (2026-2027[#|rel=|cls=]; [billing/export-fee.php?FeeId=23203|rel=|cls=]; [billing/export-fee.php?FeeId=22599|rel=|cls=]; [billing/export-fee.php?FeeId=22390|rel=|cls=]; 2025-2026[#|rel=|cls=]; [billing/export-fee.php?FeeId=22713|rel=|cls=]; [billing/export-fee.php?FeeId=21812|rel=|cls=]; [billing/export-fee.php?FeeId=21556|rel=|cls=]; [billing/export-fee.php?FeeId=20763|rel=|cls=]; [billing/export-fee.php?FeeId=20266|rel=|cls=]; [billing/export-fee.php?FeeId=20075|rel=|cls=]; [billing/export-fee.php?FeeId=19900|rel=|cls=]; [billing/export-fee.php?FeeId=19807|rel=|cls=]; [billing/export-fee.php?FeeId=19336|rel=|cls=]; 2024-2025[#|rel=|cls=]; [billing/export-fee.php?FeeId=18737|rel=|cls=]; [billing/export-fee.php?FeeId=18503|rel=|cls=]; [billing/export-fee.php?FeeId=17633|rel=|cls=]; [billing/export-fee.php?FeeId=17611|rel=|cls=]; [billing/export-fee.php?FeeId=17370|rel=|cls=]; [billing/export-fee.php?FeeId=16863|rel=|cls=]; [billing/export-fee.php?FeeId=16628|rel=|cls=]; [billing/export-fee.php?FeeId=16528|rel=|cls=]; [billing/export-fee.php?FeeId=16361|rel=|cls=]; [billing/export-fee.php?FeeId=16216|rel=|cls=]; [billing/export-fee.php?FeeId=15977|rel=|cls=]; 2023-2024[#|rel=|cls=]; [billing/export-fee.php?FeeId=15855|rel=|cls=]; [billing/export-fee.php?FeeId=15577|rel=|cls=]; [billing/export-fee.php?FeeId=15034|rel=|cls=]; [billing/export-fee.php?FeeId=14516|rel=|cls=]; [billing/export-fee.php?FeeId=14416|rel=|cls=]; [billing/export-fee.php?FeeId=14068|rel=|cls=]; [billing/export-fee.php?FeeId=13761|rel=|cls=]; [billing/export-fee.php?FeeId=13538|rel=|cls=]; [billing/export-fee.php?FeeId=13492|rel=|cls=]; [billing/export-fee.php?FeeId=13407|rel=|cls=]; [billing/export-fee.php?FeeId=13088|rel=|cls=]; [billing/export-fee.php?FeeId=13026|rel=|cls=])",
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options",
+              "023203",
+              "Aug 2026",
+              "13,250",
+              "10-Aug-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=23203|rel=|cls=])",
+              "022599",
+              "Jul 2026",
+              "7,250",
+              "10-Jul-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22599|rel=|cls=])",
+              "022390",
+              "May 2026",
+              "7,250",
+              "10-May-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22390|rel=|cls=])",
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options",
+              "022713",
+              "Jun 2026",
+              "7,250",
+              "30-Jun-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22713|rel=|cls=])",
+              "021812",
+              "Feb 2026",
+              "16,200",
+              "10-Feb-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21812|rel=|cls=])",
+              "021556",
+              "Jan 2026",
+              "18,200",
+              "10-Jan-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21556|rel=|cls=])",
+              "020763",
+              "Nov 2025",
+              "16,200",
+              "10-Nov-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20763|rel=|cls=])",
+              "020266",
+              "Aug 2025",
+              "16,200",
+              "10-Aug-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20266|rel=|cls=])",
+              "020075",
+              "Jul 2025",
+              "16,200",
+              "10-Jul-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20075|rel=|cls=])",
+              "019900",
+              "Jun 2025",
+              "16,200",
+              "10-Jun-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19900|rel=|cls=])",
+              "019807",
+              "May 2025",
+              "16,200",
+              "10-May-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19807|rel=|cls=])",
+              "019336",
+              "Apr 2025",
+              "15,000",
+              "10-Apr-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=19336|rel=|cls=])",
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options",
+              "018737",
+              "Feb 2025",
+              "12,000",
+              "10-Feb-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18737|rel=|cls=])",
+              "018503",
+              "Jan 2025",
+              "12,000",
+              "10-Jan-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18503|rel=|cls=])",
+              "017633",
+              "Nov 2024",
+              "12,000",
+              "10-Nov-2024",
+              "05-Nov-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=17633|rel=|cls=])",
+              "017611",
+              "Oct 2024",
+              "7,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17611|rel=|cls=])",
+              "017370",
+              "Oct 2024",
+              "5,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17370|rel=|cls=])",
+              "016863",
+              "Aug 2024",
+              "12,000",
+              "10-Aug-2024",
+              "06-Aug-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16863|rel=|cls=])",
+              "016628",
+              "Jul 2024",
+              "12,000",
+              "10-Jul-2024",
+              "06-Aug-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=16628|rel=|cls=])",
+              "016528",
+              "test",
+              "7,000",
+              "10-Jun-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16528|rel=|cls=])",
+              "016361",
+              "Jun 2024",
+              "15,000",
+              "10-Jun-2024",
+              "10-Jun-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16361|rel=|cls=])",
+              "016216",
+              "May 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16216|rel=|cls=])",
+              "015977",
+              "May 2024",
+              "7,500",
+              "10-May-2024",
+              "10-Jun-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=15977|rel=|cls=])",
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options",
+              "015855",
+              "Apr 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=15855|rel=|cls=])",
+              "015577",
+              "Apr 2024",
+              "7,500",
+              "10-Apr-2024",
+              "29-Apr-2024",
+              "475",
+              " ([billing/export-fee.php?FeeId=15577|rel=|cls=])",
+              "015034",
+              "Mar 2024",
+              "15,000",
+              "10-Mar-2024",
+              "08-Mar-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=15034|rel=|cls=])",
+              "014516",
+              "Feb 2024",
+              "13,000",
+              "10-Feb-2024",
+              "06-Feb-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=14516|rel=|cls=])",
+              "014416",
+              "Jan 2024",
+              "13,000",
+              "10-Jan-2024",
+              "11-Jan-2024",
+              "25",
+              " ([billing/export-fee.php?FeeId=14416|rel=|cls=])",
+              "014068",
+              "Dec 2023",
+              "13,000",
+              "10-Dec-2023",
+              "08-Jan-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=14068|rel=|cls=])",
+              "013761",
+              "Nov 2023",
+              "13,000",
+              "10-Nov-2023",
+              "03-Nov-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13761|rel=|cls=])",
+              "013538",
+              "Oct 2023",
+              "13,000",
+              "10-Oct-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13538|rel=|cls=])",
+              "013492",
+              "Sep 2023",
+              "13,000",
+              "10-Sep-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13492|rel=|cls=])",
+              "013407",
+              "Aug 2023",
+              "3,000",
+              "10-Aug-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13407|rel=|cls=])",
+              "013088",
+              "Aug 2023",
+              "10,000",
+              "10-Aug-2023",
+              "09-Aug-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13088|rel=|cls=])",
+              "013026",
+              "Jul 2023",
+              "0",
+              "10-Jul-2023",
+              "13-Jul-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13026|rel=|cls=])",
+              "",
+              ""
+            ],
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "023203",
+              "Aug 2026",
+              "13,250",
+              "10-Aug-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=23203|rel=|cls=])"
+            ],
+            [
+              "022599",
+              "Jul 2026",
+              "7,250",
+              "10-Jul-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22599|rel=|cls=])"
+            ],
+            [
+              "022390",
+              "May 2026",
+              "7,250",
+              "10-May-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22390|rel=|cls=])"
+            ],
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "022713",
+              "Jun 2026",
+              "7,250",
+              "30-Jun-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22713|rel=|cls=])"
+            ],
+            [
+              "021812",
+              "Feb 2026",
+              "16,200",
+              "10-Feb-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21812|rel=|cls=])"
+            ],
+            [
+              "021556",
+              "Jan 2026",
+              "18,200",
+              "10-Jan-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21556|rel=|cls=])"
+            ],
+            [
+              "020763",
+              "Nov 2025",
+              "16,200",
+              "10-Nov-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20763|rel=|cls=])"
+            ],
+            [
+              "020266",
+              "Aug 2025",
+              "16,200",
+              "10-Aug-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20266|rel=|cls=])"
+            ],
+            [
+              "020075",
+              "Jul 2025",
+              "16,200",
+              "10-Jul-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20075|rel=|cls=])"
+            ],
+            [
+              "019900",
+              "Jun 2025",
+              "16,200",
+              "10-Jun-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19900|rel=|cls=])"
+            ],
+            [
+              "019807",
+              "May 2025",
+              "16,200",
+              "10-May-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19807|rel=|cls=])"
+            ],
+            [
+              "019336",
+              "Apr 2025",
+              "15,000",
+              "10-Apr-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=19336|rel=|cls=])"
+            ],
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "018737",
+              "Feb 2025",
+              "12,000",
+              "10-Feb-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18737|rel=|cls=])"
+            ],
+            [
+              "018503",
+              "Jan 2025",
+              "12,000",
+              "10-Jan-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18503|rel=|cls=])"
+            ],
+            [
+              "017633",
+              "Nov 2024",
+              "12,000",
+              "10-Nov-2024",
+              "05-Nov-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=17633|rel=|cls=])"
+            ],
+            [
+              "017611",
+              "Oct 2024",
+              "7,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17611|rel=|cls=])"
+            ],
+            [
+              "017370",
+              "Oct 2024",
+              "5,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17370|rel=|cls=])"
+            ],
+            [
+              "016863",
+              "Aug 2024",
+              "12,000",
+              "10-Aug-2024",
+              "06-Aug-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16863|rel=|cls=])"
+            ],
+            [
+              "016628",
+              "Jul 2024",
+              "12,000",
+              "10-Jul-2024",
+              "06-Aug-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=16628|rel=|cls=])"
+            ],
+            [
+              "016528",
+              "test",
+              "7,000",
+              "10-Jun-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16528|rel=|cls=])"
+            ],
+            [
+              "016361",
+              "Jun 2024",
+              "15,000",
+              "10-Jun-2024",
+              "10-Jun-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16361|rel=|cls=])"
+            ],
+            [
+              "016216",
+              "May 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16216|rel=|cls=])"
+            ],
+            [
+              "015977",
+              "May 2024",
+              "7,500",
+              "10-May-2024",
+              "10-Jun-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=15977|rel=|cls=])"
+            ],
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "015855",
+              "Apr 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=15855|rel=|cls=])"
+            ],
+            [
+              "015577",
+              "Apr 2024",
+              "7,500",
+              "10-Apr-2024",
+              "29-Apr-2024",
+              "475",
+              " ([billing/export-fee.php?FeeId=15577|rel=|cls=])"
+            ],
+            [
+              "015034",
+              "Mar 2024",
+              "15,000",
+              "10-Mar-2024",
+              "08-Mar-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=15034|rel=|cls=])"
+            ],
+            [
+              "014516",
+              "Feb 2024",
+              "13,000",
+              "10-Feb-2024",
+              "06-Feb-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=14516|rel=|cls=])"
+            ],
+            [
+              "014416",
+              "Jan 2024",
+              "13,000",
+              "10-Jan-2024",
+              "11-Jan-2024",
+              "25",
+              " ([billing/export-fee.php?FeeId=14416|rel=|cls=])"
+            ],
+            [
+              "014068",
+              "Dec 2023",
+              "13,000",
+              "10-Dec-2023",
+              "08-Jan-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=14068|rel=|cls=])"
+            ],
+            [
+              "013761",
+              "Nov 2023",
+              "13,000",
+              "10-Nov-2023",
+              "03-Nov-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13761|rel=|cls=])"
+            ],
+            [
+              "013538",
+              "Oct 2023",
+              "13,000",
+              "10-Oct-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13538|rel=|cls=])"
+            ],
+            [
+              "013492",
+              "Sep 2023",
+              "13,000",
+              "10-Sep-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13492|rel=|cls=])"
+            ],
+            [
+              "013407",
+              "Aug 2023",
+              "3,000",
+              "10-Aug-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13407|rel=|cls=])"
+            ],
+            [
+              "013088",
+              "Aug 2023",
+              "10,000",
+              "10-Aug-2023",
+              "09-Aug-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13088|rel=|cls=])"
+            ],
+            [
+              "013026",
+              "Jul 2023",
+              "0",
+              "10-Jul-2023",
+              "13-Jul-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13026|rel=|cls=])"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "023203",
+              "Aug 2026",
+              "13,250",
+              "10-Aug-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=23203|rel=|cls=])"
+            ],
+            [
+              "022599",
+              "Jul 2026",
+              "7,250",
+              "10-Jul-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22599|rel=|cls=])"
+            ],
+            [
+              "022390",
+              "May 2026",
+              "7,250",
+              "10-May-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22390|rel=|cls=])"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "022713",
+              "Jun 2026",
+              "7,250",
+              "30-Jun-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=22713|rel=|cls=])"
+            ],
+            [
+              "021812",
+              "Feb 2026",
+              "16,200",
+              "10-Feb-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21812|rel=|cls=])"
+            ],
+            [
+              "021556",
+              "Jan 2026",
+              "18,200",
+              "10-Jan-2026",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=21556|rel=|cls=])"
+            ],
+            [
+              "020763",
+              "Nov 2025",
+              "16,200",
+              "10-Nov-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20763|rel=|cls=])"
+            ],
+            [
+              "020266",
+              "Aug 2025",
+              "16,200",
+              "10-Aug-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20266|rel=|cls=])"
+            ],
+            [
+              "020075",
+              "Jul 2025",
+              "16,200",
+              "10-Jul-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=20075|rel=|cls=])"
+            ],
+            [
+              "019900",
+              "Jun 2025",
+              "16,200",
+              "10-Jun-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19900|rel=|cls=])"
+            ],
+            [
+              "019807",
+              "May 2025",
+              "16,200",
+              "10-May-2025",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=19807|rel=|cls=])"
+            ],
+            [
+              "019336",
+              "Apr 2025",
+              "15,000",
+              "10-Apr-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=19336|rel=|cls=])"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "018737",
+              "Feb 2025",
+              "12,000",
+              "10-Feb-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18737|rel=|cls=])"
+            ],
+            [
+              "018503",
+              "Jan 2025",
+              "12,000",
+              "10-Jan-2025",
+              "14-May-2025",
+              "500",
+              " ([billing/export-fee.php?FeeId=18503|rel=|cls=])"
+            ],
+            [
+              "017633",
+              "Nov 2024",
+              "12,000",
+              "10-Nov-2024",
+              "05-Nov-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=17633|rel=|cls=])"
+            ],
+            [
+              "017611",
+              "Oct 2024",
+              "7,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17611|rel=|cls=])"
+            ],
+            [
+              "017370",
+              "Oct 2024",
+              "5,000",
+              "10-Oct-2024",
+              "16-Oct-2024",
+              "150",
+              " ([billing/export-fee.php?FeeId=17370|rel=|cls=])"
+            ],
+            [
+              "016863",
+              "Aug 2024",
+              "12,000",
+              "10-Aug-2024",
+              "06-Aug-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16863|rel=|cls=])"
+            ],
+            [
+              "016628",
+              "Jul 2024",
+              "12,000",
+              "10-Jul-2024",
+              "06-Aug-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=16628|rel=|cls=])"
+            ],
+            [
+              "016528",
+              "test",
+              "7,000",
+              "10-Jun-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16528|rel=|cls=])"
+            ],
+            [
+              "016361",
+              "Jun 2024",
+              "15,000",
+              "10-Jun-2024",
+              "10-Jun-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=16361|rel=|cls=])"
+            ],
+            [
+              "016216",
+              "May 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=16216|rel=|cls=])"
+            ],
+            [
+              "015977",
+              "May 2024",
+              "7,500",
+              "10-May-2024",
+              "10-Jun-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=15977|rel=|cls=])"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "Bill #",
+              "Billing Period",
+              "Amount",
+              "Due Date",
+              "Paid Date",
+              "Fine",
+              "Options"
+            ],
+            [
+              "015855",
+              "Apr 2024 # 2",
+              "7,500",
+              "10-May-2024",
+              "-",
+              "-",
+              " ([billing/export-fee.php?FeeId=15855|rel=|cls=])"
+            ],
+            [
+              "015577",
+              "Apr 2024",
+              "7,500",
+              "10-Apr-2024",
+              "29-Apr-2024",
+              "475",
+              " ([billing/export-fee.php?FeeId=15577|rel=|cls=])"
+            ],
+            [
+              "015034",
+              "Mar 2024",
+              "15,000",
+              "10-Mar-2024",
+              "08-Mar-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=15034|rel=|cls=])"
+            ],
+            [
+              "014516",
+              "Feb 2024",
+              "13,000",
+              "10-Feb-2024",
+              "06-Feb-2024",
+              "0",
+              " ([billing/export-fee.php?FeeId=14516|rel=|cls=])"
+            ],
+            [
+              "014416",
+              "Jan 2024",
+              "13,000",
+              "10-Jan-2024",
+              "11-Jan-2024",
+              "25",
+              " ([billing/export-fee.php?FeeId=14416|rel=|cls=])"
+            ],
+            [
+              "014068",
+              "Dec 2023",
+              "13,000",
+              "10-Dec-2023",
+              "08-Jan-2024",
+              "500",
+              " ([billing/export-fee.php?FeeId=14068|rel=|cls=])"
+            ],
+            [
+              "013761",
+              "Nov 2023",
+              "13,000",
+              "10-Nov-2023",
+              "03-Nov-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13761|rel=|cls=])"
+            ],
+            [
+              "013538",
+              "Oct 2023",
+              "13,000",
+              "10-Oct-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13538|rel=|cls=])"
+            ],
+            [
+              "013492",
+              "Sep 2023",
+              "13,000",
+              "10-Sep-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13492|rel=|cls=])"
+            ],
+            [
+              "013407",
+              "Aug 2023",
+              "3,000",
+              "10-Aug-2023",
+              "03-Nov-2023",
+              "500",
+              " ([billing/export-fee.php?FeeId=13407|rel=|cls=])"
+            ],
+            [
+              "013088",
+              "Aug 2023",
+              "10,000",
+              "10-Aug-2023",
+              "09-Aug-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13088|rel=|cls=])"
+            ],
+            [
+              "013026",
+              "Jul 2023",
+              "0",
+              "10-Jul-2023",
+              "13-Jul-2023",
+              "0",
+              " ([billing/export-fee.php?FeeId=13026|rel=|cls=])"
+            ]
+          ]
+        },
+        {
+          "id": "",
+          "headers": [],
+          "rows": [
+            [
+              "#",
+              "Action",
+              "Date",
+              "School",
+              "Class/Section",
+              "Registration/Roll No",
+              "Session"
+            ],
+            [
+              "1",
+              "Joining",
+              "29-Jul-2023",
+              "eSchool Islamabad",
+              "IV » A",
+              "435",
+              "2023-2024"
+            ],
+            [
+              "2",
+              "Promoted",
+              "15-Apr-2024",
+              "eSchool Islamabad",
+              "V » A",
+              "435",
+              "2024-2025"
+            ],
+            [
+              "3",
+              "Promoted",
+              "07-Apr-2025",
+              "eSchool Islamabad",
+              "VI » A",
+              "435",
+              "2025-2026"
+            ],
+            [
+              "4",
+              "Promoted",
+              "08-Apr-2026",
+              "eSchool Islamabad",
+              "VII » A",
+              "435",
+              "2026-2027"
+            ]
+          ]
+        }
+      ],
+      "links": [
+        {
+          "cls": "",
+          "text": "Ledger Statement",
+          "href": "accounts/ledger-statement.php",
+          "rel": null
+        }
+      ],
+      "textSample": "Welcome, Administrator Logout My Account My Account Logout Settings SMS Services Users Types Users Users Log Data Locks Schools Classes Sections Sessions Subjects Religions Nationalities Cities Towns Occupations Banks Bank Accounts Students Navigator Inquiry Statuses Inquiries Registrations Students Attendance Leaves Transfer Reasons Transfers Withdrawal Reasons Withdrawals Rejoins Graduates Promotions SMS Templates SMS Homework Notices App Notifications Statistics Profile Revisions Student Lists Reports Billing Navigator Fee Categories Bulk Fee Revision Bulk Fee Concessions Fee Structure Fee Concessions Regular Fee Fee Collection Custom Fee Bank Reconciliation Final Settlements Bank API Logs Reports Exams Subjects Assignment Class Teachers Grades Comments Exams Marks Report Cards Analysis Timetable Periods Seasons Timetables Scheduler Reports eCalendar Calendar Categories Events Tasks Photos Videos HR Navigator Employees Departments Groups Designations Attendance Leave Types Rosters Leaves Transfer Reasons Leaves Quota Transfers Promotions Resignation Reasons Resignations Rejoins Asset Types Holidays Assets SMS Templates SMS Notices Statistics App Notifications Employee Lists Reports Payroll Social Security EOBI Provident Fund Income Tax Salaries Loans Bonus Types Bonuses Monthly Adjustments Payroll Final Settlement Reports Petty Cash Categories Receipts Expenses Reports Accounts Chart of Accounts Vouchers Settings Ledger Statement Cheque Books Balance Sheet Profit & Loss Tr"
+    }
+  },
+  "classMarksXlsxInfo": {
+    "status": 200,
+    "ct": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "disp": "attachment;filename=\"I - B Marks Sheet.xlsx\"",
+    "bytes": 7857
+  },
+  "incomeTaxYearsRaw": {
+    "2018": [
+      [
+        "MinimumAmount",
+        "MaximumAmount",
+        "Tax (%)",
+        "Tax (Fixed)",
+        "SurchargeLimit",
+        "SurchargeRate (%)"
+      ],
+      [
+        "txtMinimum[]=400,000",
+        "txtMaximum[]=500,000",
+        "txtPercent[]=2.00",
+        "txtFixed[]=0",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=500,000",
+        "txtMaximum[]=750,000",
+        "txtPercent[]=5.00",
+        "txtFixed[]=2,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=750,000",
+        "txtMaximum[]=1,400,000",
+        "txtPercent[]=10.00",
+        "txtFixed[]=14,500",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ]
+    ],
+    "2019": [
+      [
+        "MinimumAmount",
+        "MaximumAmount",
+        "Tax (%)",
+        "Tax (Fixed)",
+        "SurchargeLimit",
+        "SurchargeRate (%)"
+      ],
+      [
+        "txtMinimum[]=0",
+        "txtMaximum[]=600,000",
+        "txtPercent[]=0.00",
+        "txtFixed[]=0",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=180,001",
+        "txtMaximum[]=2,500,000",
+        "txtPercent[]=15.00",
+        "txtFixed[]=90,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=600,001",
+        "txtMaximum[]=1,200,000",
+        "txtPercent[]=5.00",
+        "txtFixed[]=0",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=1,200,001",
+        "txtMaximum[]=1,800,000",
+        "txtPercent[]=10.00",
+        "txtFixed[]=30,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=2,500,001",
+        "txtMaximum[]=3,500,000",
+        "txtPercent[]=17.50",
+        "txtFixed[]=195,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=3,500,001",
+        "txtMaximum[]=5,000,000",
+        "txtPercent[]=20.00",
+        "txtFixed[]=370,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=5,000,001",
+        "txtMaximum[]=8,000,000",
+        "txtPercent[]=22.50",
+        "txtFixed[]=670,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=8,000,001",
+        "txtMaximum[]=12,000,000",
+        "txtPercent[]=25.00",
+        "txtFixed[]=1,345,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=12,000,001",
+        "txtMaximum[]=30,000,000",
+        "txtPercent[]=27.50",
+        "txtFixed[]=2,345,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=30,000,001",
+        "txtMaximum[]=50,000,000",
+        "txtPercent[]=30.00",
+        "txtFixed[]=7,295,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=50,000,001",
+        "txtMaximum[]=75,000,000",
+        "txtPercent[]=32.50",
+        "txtFixed[]=13,295,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ],
+      [
+        "txtMinimum[]=75,000,001",
+        "txtMaximum[]=999,999,999",
+        "txtPercent[]=35.00",
+        "txtFixed[]=21,420,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ]
+    ],
+    "2022": [
+      [
+        "MinimumAmount",
+        "MaximumAmount",
+        "Tax (%)",
+        "Tax (Fixed)",
+        "SurchargeLimit",
+        "SurchargeRate (%)"
+      ],
+      [
+        "txtMinimum[]=25,000",
+        "txtMaximum[]=50,000",
+        "txtPercent[]=3.00",
+        "txtFixed[]=200",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ]
+    ],
+    "2023": [
+      [
+        "MinimumAmount",
+        "MaximumAmount",
+        "Tax (%)",
+        "Tax (Fixed)",
+        "SurchargeLimit",
+        "SurchargeRate (%)"
+      ],
+      [
+        "txtMinimum[]=50,000",
+        "txtMaximum[]=100,000",
+        "txtPercent[]=5.00",
+        "txtFixed[]=2,000",
+        "txtSurchargeLimit[]=0",
+        "txtSurchargeRate[]=0.00"
+      ]
+    ]
+  }
+}
